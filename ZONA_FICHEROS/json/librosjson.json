@@ -1,0 +1,15 @@
+{
+  "nombre": "LOS PACOS",
+  "libros": [
+    {
+      "autor": "Paco Mañas",
+      "titulo": "EL ENTE",
+      "precio": 12.0
+    },
+    {
+      "autor": "Paquita Rices",
+      "titulo": "LOS PILARES",
+      "precio": 26.0
+    }
+  ]
+}

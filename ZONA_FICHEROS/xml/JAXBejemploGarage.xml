@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<GarageLopez>
+    <Condiciones_generales>
+        <condiciones>salida emergencia</condiciones>
+        <condiciones>acceso con mando</condiciones>
+        <condiciones>area de lavado</condiciones>
+    </Condiciones_generales>
+    <CochesOcupados>
+        <Coches precio="7000">
+            <marca>Seat</marca>
+            <modelo>Ibiza</modelo>
+            <propietario>
+                <dni>66444373L</dni>
+                <nombre>Paco</nombre>
+            </propietario>
+        </Coches>
+        <Coches precio="19000">
+            <LosConductores>
+                <conductores>
+                    <dni>66444373L</dni>
+                    <nombre>Paco</nombre>
+                </conductores>
+                <conductores>
+                    <dni>342334K</dni>
+                    <nombre>Antonio</nombre>
+                </conductores>
+            </LosConductores>
+            <marca>Kia</marca>
+            <modelo>Niro</modelo>
+            <propietario>
+                <dni>55322242K</dni>
+                <nombre>Eva</nombre>
+            </propietario>
+        </Coches>
+    </CochesOcupados>
+    <nombre>SuperGarage</nombre>
+</GarageLopez>
